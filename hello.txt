@@ -1,2 +1,0 @@
-hello, li zipan
-this is your first git file!
